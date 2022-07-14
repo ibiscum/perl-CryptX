@@ -37,3 +37,4 @@ CryptX-*
 /t/openssl/*.sig
 /t/openssl/*.rsa
 /Makefile
+.vscode/**/*
